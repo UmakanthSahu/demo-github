@@ -1,2 +1,14 @@
-Hi Testing from Git.
-Ready to push.
+git clone http........			//insert link after clone
+
+
+git add . 				//for all files
+git add "file_name.extension"	// for adding particular file
+
+
+git status 			//for current status
+
+
+git commit -m "Message"		//Message is displayed
+
+
+git push origin master		//pushes to the repository	
