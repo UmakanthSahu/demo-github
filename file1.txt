@@ -1,1 +1,2 @@
 Added a line using direct edit
+This line is added after fetch and pull from git
