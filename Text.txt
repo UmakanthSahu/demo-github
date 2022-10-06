@@ -12,3 +12,5 @@ git commit -m "Message"		//Message is displayed
 
 
 git push origin master		//pushes to the repository	
+
+git pull // for pulling any updates from a branch
